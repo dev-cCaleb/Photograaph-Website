@@ -55,3 +55,7 @@ img{
 p{
   font-style: italic;
 }
+img:hover{
+  transition:2.0s;
+  transform:scale(1.5);
+}
