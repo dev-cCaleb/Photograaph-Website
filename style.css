@@ -1,6 +1,6 @@
 .topnav{
 overflow: hidden;
-background-color:lemonchiffon;
+/*background-color:lemonchiffon;*/
 }
 .topnav input[ type=text]{
   float: center;
