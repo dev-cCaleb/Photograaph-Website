@@ -21,17 +21,17 @@ p{
   text-align: center;
   background-color: lemonchiffon;
 }
-body, html{
+body{
   height:100%;
   background-color: lemonchiffon;
   background-image: url(https://assets.fxnetworks.com/cms/prod/2020/03/05/web_detailhero_series_dsktp_devs_1280x600.jpg);
 }
-.bg{
+/*.bg{
   height:100%;
   background-position:center;
   background-repeat:no-repeat;
   background-size:cover;
-}
+}*/
 .grid {
 display:flex;
 flex-wrap: wrap;
