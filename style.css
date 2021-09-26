@@ -1,0 +1,49 @@
+.topnav{
+overflow: hidden;
+/*height: 100%;
+width: 100%;*/
+background-color:lemonchiffon;
+}
+.topnav input[ type=text]{
+  float: center;
+  padding: auto;
+  border: none;
+  margin-top: 8px;
+  margin-right: 16px;
+  font-size: 16px;
+  align-content: center;
+}
+h1{
+  text-align: center;
+  font-style: oblique;
+  color: darkcyan;
+  background-color: lemonchiffon;
+}
+p{
+  text-align: center;
+  background-color: lemonchiffon;
+}
+body, html{
+  height:100%;
+  background-color: lemonchiffon;
+}
+.bg{
+  /*background-image: url()https://www.coolaboo.com/wp-content/uploads/2019/06/Legendary-African-Warriors.jpg;*/
+  height:100%;
+  background-position:center;
+  background-repeat:no-repeat;
+  background-size:cover;
+}
+.grid {
+display:flex;
+flex-wrap: wrap;
+padding: 0 4px;
+}
+.column img{
+  margin-top: 8px;
+  vertical-align: middle;
+}
+.column img {
+margin-top: 8px;
+vertical-align: middle;
+}
