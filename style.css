@@ -59,3 +59,12 @@ img:hover{
   transition:0.5;
   transform:scale(1.5);
 }
+span{
+  align-items: center;
+  justify-content: center;
+  margin-left: 150px;
+  font-family: inherit;
+  font-weight: inherit;
+  font-style: italic;
+  margin-top: 10px;
+}
