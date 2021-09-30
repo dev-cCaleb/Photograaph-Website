@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <h1>Photograaph-Website</h1>
 <p>This is my first webpage and its a photograph website.</p>
 
@@ -26,3 +27,6 @@
 
 <h1>License</h1>
 <p>©2021 dev-cCaleb</p>
+=======
+
+>>>>>>> 3909c4d6797baa2583f37e44e08bf5d0cd3393fd
