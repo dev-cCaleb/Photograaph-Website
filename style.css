@@ -14,14 +14,16 @@ overflow: hidden;
 h1{
   text-align: center;
   font-style: oblique;
-  color: darkcyan;
-  background-color: gray;
-  font-size: 30px;
-  text-decoration-color: indianred;
+  color: whitesmoke;
+  /* background-color: gray; */
+  font-size: 60px;
+
 }
 p{
   text-align: center;
-  background-color:gray;
+  color:purple;
+  font-size: 40px;
+
 }
 body{
   height:100%;
@@ -36,36 +38,51 @@ body{
 }*/
 .grid {
 display:flex;
+justify-content: center;
 flex-wrap: wrap;
-padding: 0 4px;
-margin-left: 150px;
+
 }
-.column img{
-  margin-top: 8px;
-  vertical-align: middle;
+.column{
+height: 350px;
+  width: 30%;
+  margin: 0px 10px 10px 10px;
+  
 }
 .column img {
 margin-top: 8px;
 vertical-align: middle;
 }
 img{
-  width: 300px;
+  width: 100%;
+  height: 100%;
+  max-width: 100%;
   margin-right: 10px;
   margin-left: 10px;
 }
 p{
   font-style: italic;
 }
-img:hover{
-  transition:0.5;
-  transform:scale(1.5);
-}
-span{
+/* img:hover{
+  transition:0.5s;
+  transform:scale(1.5); 
+} */
+
+.link{
   align-items: center;
+  display: flex;
   justify-content: center;
   margin-left: 150px;
   font-family: inherit;
   font-weight: inherit;
   font-style: italic;
-  margin-top: 10px;
+  padding-top: 26px ;
+  color: whitesmoke;
+  font-size: 40px;
+}
+
+.footer{
+  align-items: center;
+}
+form{
+  align-items: center;
 }
