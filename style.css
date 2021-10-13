@@ -1,6 +1,5 @@
 .topnav{
 overflow: hidden;
-/*background-color:lemonchiffon;*/
 }
 .topnav input[ type=text]{
   float: center;
@@ -14,14 +13,14 @@ overflow: hidden;
 h1{
   text-align: center;
   font-style: oblique;
-  color: whitesmoke;
+  color: black;
   /* background-color: gray; */
   font-size: 60px;
 
 }
 p{
   text-align: center;
-  color:purple;
+  color:lightblack;
   font-size: 40px;
 
 }
@@ -85,4 +84,7 @@ p{
 }
 form{
   align-items: center;
+}
+.row1{
+  text-align: center;
 }
